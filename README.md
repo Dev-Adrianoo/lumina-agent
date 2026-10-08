@@ -278,4 +278,4 @@ Later:
 
 ## License
 
-Private project. All rights reserved.
+All rights reserved.
